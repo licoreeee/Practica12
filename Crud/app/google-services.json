@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051612350667",
+    "project_id": "proyecto-bed67",
+    "storage_bucket": "proyecto-bed67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051612350667:android:48e34ae39803354c4db34e",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDMUWcdhVxksyeEYeQoFhSHQyC6oV7s-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
